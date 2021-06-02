@@ -20,7 +20,7 @@ function App() {
             Learn React 3
           </a>
           <Link to='/'>Home</Link>
-          <Link to='/otherpage'>Other Paasswgeefe</Link>
+          <Link to='/otherpage'>Other Paasaswgeefe</Link>
         </header>
         <div>
           <Route exact path='/' component={Fib} />
